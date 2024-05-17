@@ -1,4 +1,4 @@
-Script Name: Dice Rolling AI
+Project Name: Dice Rolling AI
 
 Short description of package/script: This is a simple Python script that allows the user to play a Dice Rolling game against an AI opponent. It simulates rolling a six-sided dice for both the user and the AI and determines the winner based on the rolled values.
 
